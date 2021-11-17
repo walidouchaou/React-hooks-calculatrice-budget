@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-hooks-calculatrice-budget/static/css/main.57b09b40.chunk.css",
+    "main.js": "/React-hooks-calculatrice-budget/static/js/main.bca04a86.chunk.js",
+    "main.js.map": "/React-hooks-calculatrice-budget/static/js/main.bca04a86.chunk.js.map",
+    "runtime-main.js": "/React-hooks-calculatrice-budget/static/js/runtime-main.44009b6c.js",
+    "runtime-main.js.map": "/React-hooks-calculatrice-budget/static/js/runtime-main.44009b6c.js.map",
+    "static/js/2.392efe5c.chunk.js": "/React-hooks-calculatrice-budget/static/js/2.392efe5c.chunk.js",
+    "static/js/2.392efe5c.chunk.js.map": "/React-hooks-calculatrice-budget/static/js/2.392efe5c.chunk.js.map",
+    "static/js/3.f7cfb15a.chunk.js": "/React-hooks-calculatrice-budget/static/js/3.f7cfb15a.chunk.js",
+    "static/js/3.f7cfb15a.chunk.js.map": "/React-hooks-calculatrice-budget/static/js/3.f7cfb15a.chunk.js.map",
+    "index.html": "/React-hooks-calculatrice-budget/index.html",
+    "static/css/main.57b09b40.chunk.css.map": "/React-hooks-calculatrice-budget/static/css/main.57b09b40.chunk.css.map",
+    "static/js/2.392efe5c.chunk.js.LICENSE.txt": "/React-hooks-calculatrice-budget/static/js/2.392efe5c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44009b6c.js",
+    "static/js/2.392efe5c.chunk.js",
+    "static/css/main.57b09b40.chunk.css",
+    "static/js/main.bca04a86.chunk.js"
+  ]
+}
